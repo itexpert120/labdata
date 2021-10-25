@@ -7,19 +7,26 @@
  * places.
  */
 
+// Define predefiend mathematical values
 #define _USE_MATH_DEFINES
 
+// include cmath and iostream header files
 #include <cmath>
 #include <iostream>
 
+// start the main function
 int main() {
-	float radius{};
+
+	// initialize radius as float and take user input
+	double radius{};
 	std::cout << "Enter the Radius of Circle: ";
 	std::cin >> radius;
 
-	float circumference = 2 * M_PI * radius;
-	float area = M_PI * radius * radius;
+	// calculate circumference and area
+	double circumference = 2 * M_PI * radius;
+	double area = M_PI * radius * radius;
 
+	// output the results
 	std::cout << "\nCircumference: " << circumference;
 	std::cout << "\nArea: " << area;
 
