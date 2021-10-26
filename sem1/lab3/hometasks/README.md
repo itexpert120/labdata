@@ -10,6 +10,10 @@ solutions to lab manual 3 hometasks
 
 ![hometask1](https://github.com/itexpert120/labdata/blob/main/sem1/lab3/hometasks/hometask1.png?raw=true)
 
+## hometask 1 proof
+
+![hometask1](https://github.com/itexpert120/labdata/blob/main/sem1/lab3/hometasks/hometask1proof.jpg?raw=true)
+
 ## hometask 2 solution
 
 [hometask2.cpp](https://github.com/itexpert120/labdata/blob/main/sem1/lab3/hometasks/hometask2.cpp)
