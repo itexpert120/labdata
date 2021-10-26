@@ -1,12 +1,21 @@
 /* Take two complex number from user and add them. Print the
- * resultant complex number. 
+ * resultant complex number.
  */
 
-#include <complex>
 #include <iostream>
 
 int main() {
-    std::complex<double> myComplex(10.0, 2.0);
-    std::cout << myComplex; 
+    int realA{}, imgA{}, realB{}, imgB{};
+    std::cout << "Enter First Complex Number: ";
+    std::cin >> realA >> imgA;
+
+    std::cout << "Enter Second Complex Number: ";
+    std::cin >> realB >> imgB;
+
+    int realSum = realA + realB;
+    int imgSum = imgA + imgB;
+
+    std::cout << "\n" << realA << " + " << imgA << "i + " << realB << " + "
+              << imgB << "i = " << realSum << " + " << imgSum << "i\n";
     return 0;
 }
