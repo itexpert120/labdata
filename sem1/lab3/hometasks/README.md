@@ -28,8 +28,8 @@ solutions to lab manual 3 hometasks
 
 ## hometask 4 solution
 
-[hometask4.cpp](https://github.com/itexpert120/labdata/blob/main/sem1/lab3/hometasks/hometask3.cpp)
+[hometask4.cpp](https://github.com/itexpert120/labdata/blob/main/sem1/lab3/hometasks/hometask4.cpp)
 
 ## hometask 4 output
 
-![hometask4](https://github.com/itexpert120/labdata/blob/main/sem1/lab3/hometasks/hometask3.png?raw=true)
+![hometask4](https://github.com/itexpert120/labdata/blob/main/sem1/lab3/hometasks/hometask4.png?raw=true)
