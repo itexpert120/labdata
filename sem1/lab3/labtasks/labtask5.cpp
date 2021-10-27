@@ -1,4 +1,5 @@
-/* Write a code in C++ to take one value in integer datatype
+/* 
+ * Write a code in C++ to take one value in integer datatype
  * and second value in float datatype from user now add both
  * values. Print both values in float datatype and their sum
  * in integer
